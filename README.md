@@ -4,3 +4,6 @@ This is the base repository for all big "extreme" modpacks:
 Multiplayer Extreme Modpack<br/>
 Singleplayer Extreme Modpack<br/>
 Exploration Extreme Modpack
+
+Build information:<br/>
+use bash with command: './build.sh'
