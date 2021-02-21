@@ -1,0 +1,630 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.1.22
+Date: 2020-02-xx
+  MOD:
+    - updated "xxx" to 0.5.3
+---------------------------------------------------------------------------------------------------
+Version: 1.1.21
+Date: 2020-02-14
+  MOD:
+    - changed "pyhightech" to optional (with remark in FAQ, thx to Blykam)
+    - updated "aai-vehicles-warden" to 0.5.3
+    - updated "Mining_Drones" to 1.1.7
+    - updated "yi_engines" to 1.1.1
+    - updated "Companion_Drones" to 1.0.19
+    - updated "flib" to 0.7.0
+---------------------------------------------------------------------------------------------------
+Version: 1.1.20
+Date: 2020-02-06
+  ADD:
+    - added "Updated_Construction_Drones" as replacement for "Construction_Drones" (thx to Blykam for information)
+  MOD:
+    - set old not compatible mods which are replaced to conflict
+    - updated "Bio_Industries" to 1.1.9
+    - updated "LogisticTrainNetwork" to 1.15.2
+---------------------------------------------------------------------------------------------------
+Version: 1.1.19
+Date: 2020-02-03
+  MOD:
+    - updated "ArmouredBiters" to 1.1.1
+    - updated "reskins*" to 1.1.2
+    - updated "Bio_Industries" to 1.1.7
+    - updated "cargo-ships" to 0.0.59
+    - updated "Inventory Sensor" to 1.10.4
+    - updated "LTN_Content_Reader" to 0.3.8
+    - updated "nixie-tubes" to 1.1.2
+---------------------------------------------------------------------------------------------------
+Version: 1.1.18
+Date: 2020-01-31
+  MOD:
+    - set "pyhightech" to conflict (because incompability in PyCoalTBaA, thx to Blykam)
+---------------------------------------------------------------------------------------------------
+Version: 1.1.17
+Date: 2020-01-31
+  ADD:
+    - added "angelsexploration" in version 0.3.9
+    - added "WideChests" in version 3.3.0
+    - added "ArmouredBiters" in version 1.1.0
+  MOD:
+    - updated "Bio_Industries" to 1.1.6
+    - updated "pipelayer" to 0.5.1
+    - updated "LTN_Combinator_Modernized" to 0.9.8
+---------------------------------------------------------------------------------------------------
+Version: 1.1.16
+Date: 2020-01-30
+  MOD:
+    - reverted "Bio_Industries" to 1.1.4
+---------------------------------------------------------------------------------------------------
+Version: 1.1.15
+Date: 2020-01-30
+  ADD:
+    - added "simhelper" (dependency from nixie-tubes)
+  MOD:
+    - changed thumbnail
+    - updated "nixie-tubes" to 1.1.1
+    - updated "robot_attrition" to 0.5.9
+    - updated "Bio_Industries" to 1.1.5
+    - updated "LTN_Combinator_Modernized" to 0.9.7
+---------------------------------------------------------------------------------------------------
+Version: 1.1.14
+Date: 2020-01-26
+  MOD:
+    - updated "alien-biomes" to 0.6.4
+    - updated "Bio_Industries" to 1.1.4
+    - updated "Clowns-Extended-Minerals" to 1.1.21
+    - updated "aai-zones" to 0.6.2
+    - updated "bobelectronics" to 1.1.3
+    - updated "Inventory Sensor" to 1.10.3
+    - updated "LTN_Combinator_Modernized" to 0.9.5
+    - updated "LTN_Content_Reader" to 0.3.7
+---------------------------------------------------------------------------------------------------
+Version: 1.1.13
+Date: 2020-01-20
+  ADD:
+    - added "pyalienlife" as optional dependency (not used per default because of complexity)
+    - added "rusty-locale" in version 1.0.16 (is dependency of the Deadlock* mods)
+  MOD:
+    - updated "angelsaddons-mobility" to 0.0.6
+    - moved "DeadlocksStackingForPyanadon" to optional because dependency to "pycoalprocessing" which is breaking actual map if not activated
+---------------------------------------------------------------------------------------------------
+Version: 1.1.12
+Date: 2020-01-19
+  ADD:
+    - added "DeadlockStackingForAngels" in version 1.1.4
+    - added "DeadlockStackingForBobs" in version 1.1.9
+    - added "DeadlocksStackingForPyanadon" in version 0.4.7
+    - added "Kux-Deadlock-Stacking-Bio_Industries" in version 2.2.0
+  DEL:
+    - deleted "deadlock-stacking-crating-bobs" (was replaced by the actual added DeadlockStacking* mods)
+  MOD:
+    - updated "deadlock-beltboxes-loaders" to 2.4.1
+    - updated "Mining_Drones" to 1.1.6
+    - updated "LTN_Combinator_Modernized" to 0.9.4
+    - updated "jetpack" to 0.2.6
+    - updated "Companion_Drones" to 1.0.18
+    - updated "robot_attrition" to 0.5.8
+---------------------------------------------------------------------------------------------------
+Version: 1.1.11
+Date: 2020-01-13
+  MOD:
+    - updated "angelsindustries" to 0.4.11
+    - updated "even-distribution" to 1.0.7
+    - updated "LTN_Combinator_Modernized" to 0.9.2
+---------------------------------------------------------------------------------------------------
+Version: 1.1.10
+Date: 2020-01-08
+  ADD:
+    - added "LTN_Combinator_Modernized" as replacement for "LTN_Combinator_Fix"
+  MOD:
+    - changed "LTN_Combinator_Fix" to conflict (because game exploding if clicking on a combinator)
+---------------------------------------------------------------------------------------------------
+Version: 1.1.9
+Date: 2020-01-06
+  MOD:
+    - changed "py*"-mods to optional (because of complexity of yet saved games without py. A clean start can be done with)
+---------------------------------------------------------------------------------------------------
+Version: 1.1.8
+Date: 2020-01-06
+  ADD:
+    - added "Natural_Evolution_Buildings2" in version 1.1.0 (as replacement for NE Buildings old)
+---------------------------------------------------------------------------------------------------
+Version: 1.1.7
+Date: 2020-01-06
+  ADD:
+    - added "beltlayer" again in version 2.0.3 (thx Therax for fixing the problem)
+  MOD:
+    - updated "Companion_Drones" to 1.0.17
+    - updated "even-distribution" to 1.0.6
+    - updated "pyhightech" to 1.7.4
+    - updated "pypetroleumhandling" to 2.0.3
+    - updated "YARM" to 0.8.203
+---------------------------------------------------------------------------------------------------
+Version: 1.1.6
+Date: 2020-01-03
+  ADD:
+    - added pyanodon mods in current versions (now fully compatible again with Factorio 1.1)
+      - "pycoalprocessing" in version 1.9.1
+      - "pycoalprocessinggraphics" in version 1.0.9
+      - "pyfusionenergy" in version 1.6.6
+      - "pyfusionenergygraphics" in version 1.0.7
+      - "pyhightech" in version 1.7.3
+      - "pyhightechgraphics" in version 1.1.2
+      - "pypetroleumhandling" in version 2.0.1
+      - "pypetroleumhandlinggraphics" in version 1.0.9
+      - "pyrawores" in version 2.2.5
+      - "pyraworesgraphics" in version 1.0.9
+      - "PyCoalTBaA" in version 1.1.0
+---------------------------------------------------------------------------------------------------
+Version: 1.1.5
+Date: 2020-01-03
+  ADD:
+    - added "LTN_Combinator_Fix" in version 1.1.1 (now compatible again with Factorio 1.1)
+  MOD:
+    - updated "alien-biomes" to 0.6.3
+  DELETE:
+    - deleted "LTN_Combinator_redux" because not compatible with Factorio 1.1 again (replaced by "LTN_Combinator_Fix")
+---------------------------------------------------------------------------------------------------
+Version: 1.1.4
+Date: 2020-12-20
+  ADD:
+    - added "Construction_Drones" as optional (because Companion_Drones does not fully replace it)
+    - added "Nova-Natural_Evolution_Enemies" in version 1.1.01 (until NE Enemies is updated)
+  MOD:
+    - changed "Bio_Industries" to active in version 1.1.0
+    - updated "alien-biomes" to 0.6.3
+---------------------------------------------------------------------------------------------------
+Version: 1.1.3
+Date: 2020-12-14
+  ADD:
+    - added "LTN_Combinator_redux" in version 0.7.0 (replaces "LTN_Combinator_Fix")
+  MOD:
+    - changed "BetterBots" to optional (not supported in 1.1 yet)
+    - changed "Bio_Industries" to optional (not supported in 1.1 yet)
+  DELETE:
+    - deleted "LTN_Combinator_Fix" because not compatible with Factorio 1.1 (replaced by "LTN_Combinator_redux")
+---------------------------------------------------------------------------------------------------
+Version: 1.1.2
+Date: 2020-12-14
+  ADD:
+    - added "deadlock-integrations" in version 2.2.0
+  MOD:
+    - updated "Todo-List" to 18.0.6
+    - updated "aai*"-mods to actual versionss
+    - updated "Aircraft" to 1.7.2
+    - updated "angels*"-mods to actual versions
+    - updated "reskins*"-mods to actual versions
+    - updated "AutoDeconstruct" to 0.1.21
+    - updated "Big_Brother" to 0.5.4
+    - updated "bob*"-mods to actual versions
+    - updated "Bottleneck" to 0.11.7
+    - updated "car-finder" to 1.5.2
+    - updated "cargo-ships" to 0.0.57
+    - updated "Cold_biters" to 1.0.14
+    - updated "deadlock-beltboxes-loaders" to 2.4.0
+    - updated "Dectorio" to 0.12.2
+    - updated "Enhanced_Map_Colors" to 1.5.4
+    - updated "even-distribution" to 1.0.1
+    - updated "EvoGUI" to 0.4.601
+    - updated "Explosive_biters" to 1.0.31
+    - updated "flib" to 0.6.0
+    - updated "stdlib" to 1.4.6
+    - updated "Factorissimo2" to 2.5.1
+    - updated "far-reach" to 1.1.0
+    - updated "Flow Control" to 3.0.8
+    - updated "FNEI" to 0.4.0
+    - updated "FARL" to 4.1.0
+    - updated "grappling-gun" to 0.3.1
+    - updated "informatron" to 0.2.1
+    - updated "Inventory Sensor" to 1.10.0
+    - updated "jetpack" to 0.2.5
+    - updated "LogisticTrainNetwork" to 0.15.0
+    - updated "LTN_Content_Reader" to 0.3.6
+    - updated "Clowns*"-mods to actual versions
+    - updated "Mining_Drones" to 1.0.0
+    - updated "more-minimap-autohide-017" to 1.1.0
+    - updated "Nightfall" to 1.1.0
+    - updated "nixie-tubes" to 1.1.0
+    - updated "PCPRedux" to 1.0.3
+    - updated "pipelayer" to 0.5.0
+    - updated "pyindustry" to 1.5.2
+    - updated "qol_research" to 3.3.0
+    - updated "RateCalculator" to 2.0.2
+    - updated "robot_attrition" to 0.5.6
+    - updated "spidertron-logistics" to 1.2.5
+    - updated "Squeak Through" to 1.8.1
+    - updated "Todo-List" to 19.0.6
+    - updated "tree_collision" to 1.1.0
+    - updated "VehicleGrid" to 1.4.0
+    - updated "WaterWell" to 1.1.2
+    - updated "YARM" to 0.8.201
+    - updated "Yuoki*"-mods to actual versions
+---------------------------------------------------------------------------------------------------
+Version: 1.1.1
+Date: 2020-12-09
+  ADD:
+    - added "Companion_Drones" to 1.0.14 (replaces Construction_Drones)
+  MOD:
+    - updated "Todo-List" to 18.0.6
+    - updated "TheFatController" to 5.1.2    
+    - updated "multi-product-recipe-details" to 1.1.1
+    - updated "SchallMachineScaling" to 1.1.0
+    - updated "SchallRecipeScaling" to 1.1.0
+    - updated "SchallPipeScaling" to 1.1.0
+    - changed following to optional because not supported in 1.1. yet (thanks to nagamer for information)
+    - changed "deadlock-stacking-crating-bobs" to optional (not supported in 1.1 yet)
+    - changed "deadlock-integrations" to optional (not supported in 1.1 yet)
+    - changed "Natural_Evolution_Buildings" to optional (not supported in 1.1 yet)
+    - changed "Natural_Evolution_Enemies" to optional (not supported in 1.1 yet)
+    - changed "Robot_Battery_Research" to optional (not supported in 1.1 yet)
+    - changed "ShinyAngelGFX" to optional (not supported in 1.1 yet)
+    - changed "ShinyBobGFX" to optional (not supported in 1.1 yet)
+    - changed "ShinyIcons" to optional (not supported in 1.1 yet)
+  DEL:
+    - deleted "Construction_Drones" (developer replaced this mod with Companion_Drones")
+    - deleted "ConstructionTower" (too old)
+---------------------------------------------------------------------------------------------------
+Version: 1.1.0
+Date: 2020-11-30
+  MOD:
+    - updated "base" to 1.1.0
+    - updated "Bio_Industries" to 0.18.29
+    - updated "Todo-List" to 18.0.4
+    - updated "car-finder" to 1.4.2
+---------------------------------------------------------------------------------------------------
+Version: 1.0.28
+Date: 2020-11-25
+  MOD:
+    - updated "reskins-bobs" to 1.0.7
+    - updated "reskins-library" to 1.0.9
+    - updated "Clowns-Extended-Minerals" to 1.1.19
+    - updated "Clowns-Processing" to 1.3.13
+    - updated "robot_attrition" to 0.4.5
+    - updated "SchallRecipeScaling" to 1.0.0
+    - updated "Dectorio" to 0.11.1
+    - updated "Factorissimo2" to 2.4.5
+    - updated "pyindustry" to 1.5.0
+---------------------------------------------------------------------------------------------------
+Version: 1.0.27
+Date: 2020-11-18
+  MOD:
+    - updated "angelsbioprocessing" to 0.7.16
+    - updated "angelsindustries" to 0.4.8
+    - updated "angelspetrochem" to 0.9.16
+    - updated "angelsrefining" to 0.11.18
+    - updated "angelssmelting" to 0.6.13
+    - updated "cargo-ships" to 0.0.56
+    - updated "Dectorio" to 0.11.0
+    - updated "Nightfall" to 1.0.0
+---------------------------------------------------------------------------------------------------
+Version: 1.0.26
+Date: 2020-11-10
+  MOD:
+    - updated "SchallMachineScaling" to 1.0.0
+    - updated "SchallPipeScaling" to 1.0.1
+    - updated "TheFatController" to 5.0.7
+    - updated "reskins-angels" to 1.0.2
+    - updated "reskins-bobs" to 1.0.6
+    - updated "reskins-library" to 1.0.8
+    - updated "qol_research" to 3.2.1
+    - changed "base" to 1.0.0 instead of 1.0 (does not really help)
+---------------------------------------------------------------------------------------------------
+Version: 1.0.25
+Date: 2020-11-05
+  MOD:
+    - changed "belt-balancer" to optional (because of perfomance problems in multiplayer)
+  DEL:
+    - deleted "BeltRouter" (because of not optimal routes and lag spikes in multiplayer)
+---------------------------------------------------------------------------------------------------
+Version: 1.0.24
+Date: 2020-11-04
+  MOD:
+    - updated "BeltRouter" to 1.1.7
+  DEL:
+    - deleted "OpteraLib" (because of deprecated - not used anymore from any mod)
+---------------------------------------------------------------------------------------------------
+Version: 1.0.23
+Date: 2020-11-01
+  ADD:
+    - FAQ for "BeltRouter" mod that there is a setting for changing the key bindings
+  MOD:
+    - changed "base" to 1.0 instead of 1.0.0
+---------------------------------------------------------------------------------------------------
+Version: 1.0.22
+Date: 2020-11-01
+  ADD:
+    - added "belt-balancer" in version 2.1.3
+    - added "BeltRouter" in version 1.1.6
+---------------------------------------------------------------------------------------------------
+Version: 1.0.21
+Date: 2020-10-30
+  MOD:
+    - updated "aai-signal-transmission" to 0.3.22
+    - updated "Explosive_biters" to 1.0.28
+    - updated "flib" to 0.5.0
+    - updated "angelsaddons-mobility" to 0.0.3
+    - updated "angelsaddons-storage" to 0.0.2
+    - updated "angelsbioprocessing" to 0.7.15
+    - updated "angelsindustries" to 0.4.7
+    - updated "angelspetrochem" to 0.9.15
+    - updated "angelsrefining" to 0.11.17
+    - updated "angelssmelting" to 0.6.12
+    - updated "Bottleneck" to 0.11.5
+    - updated "Cold_biters" to 1.0.13
+    - updated "deadlock-beltboxes-loaders" to 2.3.7
+    - updated "Explosive_biters" to 1.0.29
+    - updated "RateCalculator" to 1.1.7
+    - updated "TheFatController" to 5.0.6
+---------------------------------------------------------------------------------------------------
+Version: 1.0.20
+Date: 2020-10-18
+  ADD:
+    - added "spidertron-logistics" in version 1.2.4
+  MOD:
+    - updated "reskins-bobs" to 1.0.5
+    - updated "bobinserters" to 1.0.1
+    - updated "aai-signal-transmission" to 0.3.21
+---------------------------------------------------------------------------------------------------
+Version: 1.0.19
+Date: 2020-10-13
+  MOD:
+    - updated "aai-signal-transmission" to 0.3.20
+    - updated "jetpack" to 0.1.25
+---------------------------------------------------------------------------------------------------
+Version: 1.0.18
+Date: 2020-10-07
+  MOD:
+    - updated "aai-industry" to 0.4.23
+    - updated "reskins-angels" to 1.0.1
+    - updated "reskins-bobs" to 1.0.4
+    - updated "reskins-library" to 1.0.6
+    - updated "FARL" to 4.0.7
+---------------------------------------------------------------------------------------------------
+Version: 1.0.17
+Date: 2020-10-04
+  MOD:
+    - checked that the limit of Factorio sprites (255) are not violated with mod combination, so:
+      - changed "AsphaltRoads" to optional (does not work properly)
+      - for further information look at FAQ of AsphaltRoads (https://mods.factorio.com/mod/AsphaltRoads/faq)
+      - changed FAQ that the dectorio setting for painted concrete should be disabled
+    - updated "bobvehicleequipment" to 1.0.1
+    - updated "LogisticTrainNetwork" to 1.14.6
+    - updated "pyindustry" to 1.4.9
+    - updated "RateCalculator" to 1.1.5
+---------------------------------------------------------------------------------------------------
+Version: 1.0.16
+Date: 2020-09-30
+  ADD:
+    - added "RateCalculator" in version 1.1.4 (see deletion of MaxRateCalculator)
+  DEL:
+    - deleted "MaxRateCalculator" (because RateCalculator have additional to that an electricity calculation) 
+    - deleted "Noxys_Waterfill" (because Dectorio already has a waterfill recipe)
+  MOD:
+    - changed "Rampant" to optional because of UPS/FPS problems
+    - updated "aai-industry" to 0.4.20
+---------------------------------------------------------------------------------------------------
+Version: 1.0.15
+Date: 2020-09-27
+  ADD:
+    - added Reskins mods in current versions (check settings if you want to change colour styles):
+      - "reskins-library" in version 1.0.5
+      - "reskins-bobs" in version 1.0.3
+      - "reskins-angels" in version 1.0.0
+  MOD:
+    - updated "flib" to 0.4.1
+    - updated "PCPRedux" to 1.0.1
+    - updated "aai-signal-transmission" to 0.3.18
+    - updated "jetpack" to 0.1.24
+    - updated "qol_research" to 3.2.0
+---------------------------------------------------------------------------------------------------
+Version: 1.0.14
+Date: 2020-09-22
+  MOD:
+    - updated "LogisticTrainNetwork" to 4.0.5
+    - updated "stdlib" to 1.4.5
+    - updated "informatron" to 0.1.14
+    - updated "jetpack" to 0.1.22
+---------------------------------------------------------------------------------------------------
+Version: 1.0.13
+Date: 2020-09-16
+  MOD:
+    - updated "FARL" to 4.0.5
+---------------------------------------------------------------------------------------------------
+Version: 1.0.12
+Date: 2020-09-14
+  FIX:
+    - package structure
+---------------------------------------------------------------------------------------------------
+Version: 1.0.11
+Date: 2020-09-14
+  MOD:
+    - updated "aai-signal-transmission" to 0.3.15
+    - updated "flib" to 0.4.0
+    - updated "LogisticTrainNetwork" to 1.14.4
+    - updated "LTN_Content_Reader" to 0.3.5
+---------------------------------------------------------------------------------------------------
+Version: 1.0.10
+Date: 2020-09-09
+  MOD:
+    - updated "MaxRateCalculator" to 3.4.45
+    - updated "Big_Brother" to 0.5.3
+    - updated "LogisticTrainNetwork" to 1.14.3
+    - updated "angelsaddons-mobility" to 0.0.2
+    - updated "Factorissimo2" to 2.4.3
+    - updated "MaxRateCalculator" to 3.4.46
+    - updated "Noxys_Waterfill" to 0.3.0
+---------------------------------------------------------------------------------------------------
+Version: 1.0.9
+Date: 2020-09-02
+  MOD:
+    - updated "car-finder" to 1.4.1
+    - updated "flib" to 0.3.3
+    - updated "MaxRateCalculator" to 3.4.44
+---------------------------------------------------------------------------------------------------
+Version: 1.0.8
+Date: 2020-08-31
+  MOD:
+    - updated "aai-industry" to 0.4.19
+    - updated "aai-programmable-vehicles" to 0.6.14
+    - updated "jetpack" to 0.1.20
+    - updated "MaxRateCalculator" to 3.4.43
+    - updated "flib" to 0.3.2
+    - updated "LogisticTrainNetwork" to 1.14.2
+  DEL:
+    - removed enemy information from FAQ because setting is not there anymore (thx to Wirin)
+---------------------------------------------------------------------------------------------------
+Version: 1.0.7
+Date: 2020-08-28
+  MOD:
+    - updated "cargo-ships" to 0.0.55
+    - updated "car-finder" to 1.4.0
+    - updated "FARL" to 4.0.4
+    - updated "LogisticTrainNetwork" to 1.14.1
+    - changed some Py mods from conflict to optional (because they are not conflicting anymore, but not really matching until the compatibility is solved)
+---------------------------------------------------------------------------------------------------
+Version: 1.0.6
+Date: 2020-08-25
+  ADD:
+    - added "pipelayer" in version 0.4.4 (beltlayer still on waiting)
+    - added "angelsaddons-storage" in version 0.0.1
+    - added "angelsaddons-mobility" in version 0.0.1
+  MOD:
+    - updated "car-finder" to 1.3.0
+    - updated "flib" to 0.3.1
+    - updated "FARL" to 4.0.3
+    - updated "informatron" to 0.1.13
+  DEL:
+    - deleted Angel addons which are merged into the new Angel's addon packs:
+      - Angels pressure-tanks v0.5.2
+      - Angels warehouses v0.5.2
+      - Angels oresilos v0.6.2
+      - Angels Crawler train v0.1.6
+      - Angels Petro train v0.5.10
+      - Angels Smelting train v0.3.9
+---------------------------------------------------------------------------------------------------
+Version: 1.0.5
+Date: 2020-08-24
+  ADD:
+    - added some optional dependencies for UPS-friendly mods which are interesting but not tested yet
+    - added Schall scaling mods in current versions
+    - added "car-finder" in version 1.2.0
+    - added "beltlayer" and "pipelayer" as wanted but conflicted (wait for a working version)
+  DEL:
+    - deleted "FluidMustFlow" (because Shall pipe scaling much more UPS efficient and more flexible)
+---------------------------------------------------------------------------------------------------
+Version: 1.0.4
+Date: 2020-08-23
+  ADD:
+    - added "LTN_Combinator_Fix" in version 0.6.2 (now working again)
+    - added "LTN_Content_Reader" in version 0.3.4 (now working again)
+---------------------------------------------------------------------------------------------------
+Version: 1.0.3
+Date: 2020-08-22
+  MOD:
+    - updated "Yuoki" to 1.0.2
+    - updated "yi_engines" to 1.0.45
+    - updated "Construction_Drones" to 0.6.11
+    - updated "stdlib" to 1.4.4
+    - updated "jetpack" to 0.1.20
+    - updated "Clowns-Nuclear" to 1.3.11
+---------------------------------------------------------------------------------------------------
+Version: 1.0.2
+Date: 2020-08-21
+  MOD:
+    - ATTENTION: There are changes in gas->liquid recipes from Bob/Angel's, so some recipes will be changed (phenol, ethylbenzene, styrene, glycerol, bisphenol a, polyethylene)!
+    - updated "far-reach" to 1.0.1
+    - updated "angelsbioprocessing" to 0.7.14
+    - updated "angelsindustries" to 0.4.6
+    - updated "angelspetrochem" to 0.9.14
+    - updated "angelsrefining" to 0.11.16
+    - updated "angelssmelting" to 0.6.11
+    - updated "bobplates" to 1.0.2
+    - updated "informatron" to 0.1.12
+    - updated "PCPRedux" to 0.18.6
+  CHECKING:
+    - Youki mods are conflicting in actual version
+---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 2020-08-19
+  MOD:
+    - updated "Bob libraries" to 1.0.0
+    - updated "Clowns-Extended-Minerals" to 1.1.18
+    - updated "Yi_Tech_Tree" to 1.0.0
+    - updated "aai-industry" to 0.4.18
+    - updated "aai-programmable-structures" to 0.6.6
+    - updated "aai-programmable-vehicles" to 0.6.13
+    - updated "aai-vehicles-miner" to 0.5.9
+    - updated "alien-biomes" to 0.5.8
+    - updated "AutoDeconstruct" to 0.1.20
+    - updated "Cold_biters" to 1.0.12
+    - updated "far-reach" to 1.0.0
+    - updated "FluidMustFlow" to 1.2.9
+    - updated "informatron" to 0.1.10
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2020-08-15
+  MOD:
+    - updated "Base" to 1.0.0
+    - updated "aai-programmable-structures" to 0.6.5
+    - updated "aai-programmable-vehicles" to 0.6.12
+    - updated "Bio_Industries" to 0.18.28
+    - updated "flib" to 0.3.0
+    - updated "MaxRateCalculator" to 3.4.42
+    - updated "TheFatController" to 5.0.5
+    - updated "tree_collision" to 1.0.0
+    - updated "VehicleGrid" to 1.3.0
+    - updated "YARM" to 0.8.102
+    - updated "Yuoki" to 0.8.98
+    - updated "yi_engines" to 0.8.43
+---------------------------------------------------------------------------------------------------
+Version: 0.18.7
+Date: 2020-08-09
+  MOD:
+    - updated "Base" to 0.18.45
+    - updated "Nixie Tubes"  to 0.18.5
+    - updated "Rampant" to 0.18.17
+    - updated "PCPRedux" to 0.18.5
+    - updated "Mining_Drones" to 0.3.24
+    - updated "Clowns-Science" to 1.0.25
+    - updated "Clowns-Extended-Minerals" to 1.1.17
+    - updated "deadlock-integrations" to 2.1.3
+    - updated "Construction_Drones" to 0.6.10
+    - updated "Bio_Industries" to 0.18.25
+    - updated "aai-signal-transmission" to 0.3.13
+    - updated "aai-industry" to 0.4.16
+---------------------------------------------------------------------------------------------------
+Version: 0.18.6
+Date: 2020-08-01
+  MOD:
+    - updated "TheFatController"  to 5.0.4
+    - updated "LTN" to 1.13.10
+    - updated "Natural Evolution Enemies" to 0.18.5
+  ADD:
+    - added "FluidMustFlow" in version 1.2.8
+    - added "flib" in version 0.2.0 (requirement for LTN)
+---------------------------------------------------------------------------------------------------
+Version: 0.18.5
+Date: 2020-07-27
+  MOD:
+    - updated "Deadlock's Stacking Beltboxes" to 2.3.6
+---------------------------------------------------------------------------------------------------
+Version: 0.18.4
+Date: 2020-07-26
+  MOD:
+    - found incompability between AAI Industry & Component overhaul setting in Angel's Industries, so ->
+    - changed FAQ with remark to disable this setting (instead of deleting AAI industry)
+    - updated "Robot Attrition" to 0.4.4
+---------------------------------------------------------------------------------------------------
+Version: 0.18.3
+Date: 2020-07-23
+  MOD:
+    - updated "Explosive Biters" to 0.18.27
+---------------------------------------------------------------------------------------------------
+Version: 0.18.2
+Date: 2020-07-17
+  MOD:
+    - updated Angel's mods to new version
+---------------------------------------------------------------------------------------------------
+Version: 0.18.1
+Date: 2020-07-17
+  ADD:
+    - Initial release

@@ -1,0 +1,84 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.1.9
+Date: 2020-02-xx
+  MOD:
+    - updated "xxx" to 0.5.3
+---------------------------------------------------------------------------------------------------
+Version: 1.1.8
+Date: 2020-02-14
+  MOD:
+    - updated "aai-vehicles-warden" to 0.5.3
+    - updated "Mining_Drones" to 1.1.7
+    - updated "yi_engines" to 1.1.1
+    - updated "Companion_Drones" to 1.0.19
+    - updated "flib" to 0.7.0
+    - updated "helmod" to 0.12.5
+---------------------------------------------------------------------------------------------------
+Version: 1.1.7
+Date: 2020-02-06
+  ADD:
+    - added "Updated_Construction_Drones" as replacement for "Construction_Drones" (thx to Blykam for information)
+  MOD:
+    - set old not compatible mods which are replaced to conflict
+    - changed "py*" mods to optional (because PyCoalTBaA not very active and some incompabilities found)
+    - updated "Bio_Industries" to 1.1.9
+    - updated "LogisticTrainNetwork" to 1.15.2
+---------------------------------------------------------------------------------------------------
+Version: 1.1.6
+Date: 2020-02-03
+  MOD:
+    - updated "ArmouredBiters" to 1.1.1
+    - updated "reskins*" to 1.1.2
+    - updated "Bio_Industries" to 1.1.7
+    - updated "cargo-ships" to 0.0.59
+    - updated "helmod" to 0.12.4
+    - updated "Inventory Sensor" to 1.10.4
+    - updated "LTN_Content_Reader" to 0.3.8
+    - updated "nixie-tubes" to 1.1.2	
+    - updated "pycoalprocessing" to 1.9.3
+    - updated "pyrawores" to 2.2.7
+    - updated "Tapeline" to 2.0.4
+---------------------------------------------------------------------------------------------------
+Version: 1.1.5
+Date: 2020-01-31
+  MOD:
+    - set "pyhightech" to conflict (because incompability in PyCoalTBaA, thx to Blykam)
+---------------------------------------------------------------------------------------------------
+Version: 1.1.4
+Date: 2020-02-31
+  ADD:
+    - added "angelsexploration" in version 0.3.9
+    - added "WideChests" in version 3.3.0
+  MOD:
+    - updated "Bio_Industries" to version 1.1.6
+    - updated "pipelayer" to 0.5.1
+    - updated "LTN_Combinator_Modernized" to 0.9.8
+---------------------------------------------------------------------------------------------------
+Version: 1.1.3
+Date: 2020-01-30
+  MOD:
+    - reverted "Bio_Industries" to 1.1.4
+---------------------------------------------------------------------------------------------------
+Version: 1.1.2
+Date: 2020-01-30
+  ADD:
+    - added "pyalienlife" as optional
+    - added "simhelper" (dependency from nixie-tubes)
+  MOD:
+    - changed thumbnail
+    - updated "pyrawores" to version 2.2.6
+    - updated "nixie-tubes" to 1.1.1
+    - updated "pypetroleumhandling" to 2.0.5
+    - updated "robot_attrition" to 0.5.9
+    - updated "Bio_Industries" to 1.1.5
+    - updated "LTN_Combinator_Modernized" to 0.9.7
+---------------------------------------------------------------------------------------------------
+Version: 1.1.1
+Date: 2020-01-26
+  ADD:
+    - "Py*"-mods added
+---------------------------------------------------------------------------------------------------
+Version: 1.1.0
+Date: 2020-01-26
+  ADD:
+    - Initial release
