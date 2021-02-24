@@ -1,8 +1,15 @@
 ---------------------------------------------------------------------------------------------------
 Version: 1.1.22
-Date: 2020-02-xx
+Date: 2020-02-24
   MOD:
-    - updated "xxx" to 0.5.3
+    - updated "aai-industry" to 0.5.4
+    - updated "aai-zones" to 0.6.3
+    - updated "Companion_Drones" to 1.0.21
+    - updated "Enhanced_Map_Colors" to 1.5.5
+    - updated "LogisticTrainNetwork" to 1.15.3
+    - updated "Mining_Drones" to 1.1.9
+    - updated "RateCalculator" to 2.1.0
+    - updated "Squeak Through" to 1.8.2
 ---------------------------------------------------------------------------------------------------
 Version: 1.1.21
 Date: 2020-02-14
