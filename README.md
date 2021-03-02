@@ -6,4 +6,5 @@ Singleplayer Extreme Modpack<br/>
 Exploration Extreme Modpack
 
 Build information:<br/>
-use bash with command: './build.sh'
+- You will need 7z.exe (https://www.7-zip.org/download.html) in the base folder
+- Then use bash with command: './build.sh'
