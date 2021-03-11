@@ -1,4 +1,28 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.1.11
+Date: 2020-03-11
+  MOD:
+    - updated "ArmouredBiters" to 1.1.3
+    - updated "Cold_biters" to 1.0.15
+    - updated "Explosive_biters" to 1.0.33
+    - updated "LogisticTrainNetwork" to 1.15.5
+    - updated "LTN_Combinator_Modernized" to 0.9.9
+    - updated "Mining_Drones" to 1.1.10
+    - updated "RateCalculator" to 2.1.3
+    - updated "Tapeline" to 2.0.6
+    - updated "reskins*"-mods to actual version
+---------------------------------------------------------------------------------------------------
+Version: 1.1.10
+Date: 2020-03-03
+  ADD:
+    - changed "Robot_Battery_Research" again to available (now Factorio 1.1 compatible)
+  MOD:
+    - updated "even-distribution" to 1.0.8
+    - updated "LogisticTrainNetwork" to 1.15.4
+    - updated "Rampant" to 1.0.4
+    - updated "RateCalculator" to 2.1.2
+    - updated "aai-industry" to 0.5.5
+---------------------------------------------------------------------------------------------------
 Version: 1.1.9
 Date: 2020-02-24
   MOD:
