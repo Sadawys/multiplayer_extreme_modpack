@@ -1,6 +1,6 @@
 {
 	"name": "exploration_extreme_modpack",
-	"version": "1.1.9",
+	"version": "1.1.10",
 	"title": "Exploration Extreme Modpack",
 	"author": "Sadawys",
 	"contact": "sadawys@wolke7.net",
@@ -10,7 +10,7 @@
 	"dependencies": [
 	"base >= 1.1.0",
 	
-	"aai-industry >= 0.5.5",
+	"aai-industry >= 0.5.7",
 		"aai-programmable-structures >= 0.7.3",
 		"aai-programmable-vehicles >= 0.7.9",
 		"aai-signal-transmission >= 0.4.1",
@@ -37,7 +37,7 @@
 	"Bottleneck >= 0.11.7",
 	"car-finder >= 1.5.2",
 	"cargo-ships >= 0.0.59",	
-	"Cold_biters >= 1.0.15",
+	"Cold_biters >= 1.1.0",
 	"Companion_Drones >= 1.0.21",
 	"!Construction_Drones",
 		"Updated_Construction_Drones >= 1.0.1",
@@ -64,7 +64,7 @@
 	
 	"Krastorio2 >= 1.0.23",
 	
-	"LogisticTrainNetwork >= 1.15.5",
+	"LogisticTrainNetwork >= 1.15.7",
 		"!LTN_Combinator_Fix",
 		"LTN_Combinator_Modernized >= 0.9.9",
 		"LTN_Content_Reader >= 0.3.8",
@@ -89,7 +89,7 @@
 	"rusty-locale >= 1.0.16",
 	"simhelper >= 1.1.1",
 	
-	"space-exploration >= 0.5.37",
+	"space-exploration >= 0.5.39",
 		"space-exploration-graphics >= 0.5.5",
 		"?space-exploration-hr-graphics",
 		"space-exploration-postprocess >= 0.5.11",

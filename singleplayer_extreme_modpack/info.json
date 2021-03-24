@@ -1,6 +1,6 @@
 {
 	"name": "singleplayer_extreme_modpack",
-	"version": "1.1.11",
+	"version": "1.1.13",
 	"title": "Singleplayer Extreme Modpack",
 	"author": "Sadawys",
 	"contact": "sadawys@wolke7.net",
@@ -10,7 +10,7 @@
 	"dependencies": [
 	"base >= 1.1.0",	
 	
-	"aai-industry >= 0.5.5",
+	"aai-industry >= 0.5.7",
 		"aai-programmable-structures >= 0.7.3",
 		"aai-programmable-vehicles >= 0.7.9",
 		"aai-signal-transmission >= 0.4.1",
@@ -38,7 +38,7 @@
 		"angelsrefining >= 0.11.19",
 		"angelssmelting >= 0.6.14",
 		
-	"ArmouredBiters >= 1.1.3",
+	"ArmouredBiters >= 1.1.4",
 	"?AsphaltRoads",
 	"AutoDeconstruct >= 0.1.21",
 	"beltlayer >= 2.0.3",
@@ -74,7 +74,7 @@
 		"Clowns-Science >= 1.0.27",
 		"Clowns-Nuclear >= 1.3.12",
 	
-	"Cold_biters >= 1.0.15",
+	"Cold_biters >= 1.1.0",
 	"Companion_Drones >= 1.0.21",
 	"!Construction_Drones",
 		"Updated_Construction_Drones >= 1.0.1",
@@ -105,7 +105,7 @@
 	"Inventory Sensor >= 1.10.4",
 	"jetpack >= 0.2.6",
 	
-	"LogisticTrainNetwork >= 1.15.5",
+	"LogisticTrainNetwork >= 1.15.7",
 		"!LTN_Combinator_Fix",
 		"LTN_Combinator_Modernized >= 0.9.9",
 		"LTN_Content_Reader >= 0.3.8",
@@ -143,9 +143,9 @@
 	"Rampant >= 1.0.4",	
 	"RateCalculator >= 2.1.3",
 		
-	"reskins-angels >= 1.1.3",
-		"reskins-bobs >= 1.1.4",
-		"reskins-library >= 1.1.3",
+	"reskins-angels >= 1.1.5",
+		"reskins-bobs >= 1.1.7",
+		"reskins-library >= 1.1.5",
 		
 	"robot_attrition >= 0.5.9",
 	"Robot_Battery_Research >= 0.2.1",
