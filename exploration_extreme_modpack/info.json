@@ -1,6 +1,6 @@
 {
 	"name": "exploration_extreme_modpack",
-	"version": "1.1.11",
+	"version": "1.1.12",
 	"title": "Exploration Extreme Modpack",
 	"author": "Sadawys",
 	"contact": "sadawys@wolke7.net",
@@ -55,7 +55,7 @@
 	"Factorissimo2 >= 2.5.1",
 	"far-reach >= 1.1.0",
 	"Flow Control >= 3.0.8",
-	"FNEI >= 0.4.0",
+	"FNEI >= 0.4.1",
 	"FARL >= 4.1.0",
 	"grappling-gun >= 0.3.1",
 	"informatron >= 0.2.1",
@@ -64,7 +64,7 @@
 	
 	"Krastorio2 >= 1.0.23",
 	
-	"LogisticTrainNetwork >= 1.15.7",
+	"LogisticTrainNetwork >= 1.16.0",
 		"!LTN_Combinator_Fix",
 		"LTN_Combinator_Modernized >= 0.9.9",
 		"LTN_Content_Reader >= 0.3.8",

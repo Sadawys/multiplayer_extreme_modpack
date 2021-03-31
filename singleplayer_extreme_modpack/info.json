@@ -1,6 +1,6 @@
 {
 	"name": "singleplayer_extreme_modpack",
-	"version": "1.1.13",
+	"version": "1.1.14",
 	"title": "Singleplayer Extreme Modpack",
 	"author": "Sadawys",
 	"contact": "sadawys@wolke7.net",
@@ -97,7 +97,7 @@
 	"Factorissimo2 >= 2.5.1",
 	"far-reach >= 1.1.0",
 	"Flow Control >= 3.0.8",
-	"FNEI >= 0.4.0",
+	"FNEI >= 0.4.1",
 	"FARL >= 4.1.0",
 	"grappling-gun >= 0.3.1",
 	"helmod >= 0.12.5",
@@ -105,7 +105,7 @@
 	"Inventory Sensor >= 1.10.4",
 	"jetpack >= 0.2.6",
 	
-	"LogisticTrainNetwork >= 1.15.7",
+	"LogisticTrainNetwork >= 1.16.0",
 		"!LTN_Combinator_Fix",
 		"LTN_Combinator_Modernized >= 0.9.9",
 		"LTN_Content_Reader >= 0.3.8",
@@ -140,7 +140,7 @@
 		"?PyCoalTBaA",
 	
 	"qol_research >= 3.3.0",
-	"Rampant >= 1.0.4",	
+	"Rampant >= 1.0.6",	
 	"RateCalculator >= 2.1.3",
 		
 	"reskins-angels >= 1.1.5",
