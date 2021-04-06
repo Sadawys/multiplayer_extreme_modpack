@@ -1,6 +1,6 @@
 {
 	"name": "multiplayer_extreme_modpack",
-	"version": "1.1.27",
+	"version": "1.1.28",
 	"title": "Multiplayer Extreme Modpack",
 	"author": "Sadawys",
 	"contact": "sadawys@wolke7.net",
@@ -22,7 +22,7 @@
 		"aai-vehicles-laser-tank >= 0.6.2",
 		"aai-vehicles-miner >= 0.6.1",
 		"aai-vehicles-warden >= 0.5.3",
-		"aai-zones >= 0.6.3",
+		"aai-zones >= 0.6.4",
 	
 	"Aircraft >= 1.7.2",
 	
@@ -91,7 +91,7 @@
 	"Explosive_biters >= 1.0.33",
 	"flib >= 0.7.0",
 	"stdlib >= 1.4.6",
-	"Factorissimo2 >= 2.5.1",
+	"Factorissimo2 >= 2.5.2",
 	"far-reach >= 1.1.0",
 	"Flow Control >= 3.0.8",
 	"FNEI >= 0.4.1",
