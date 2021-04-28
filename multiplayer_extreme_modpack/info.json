@@ -1,6 +1,6 @@
 {
 	"name": "multiplayer_extreme_modpack",
-	"version": "1.1.29",
+	"version": "1.1.30",
 	"title": "Multiplayer Extreme Modpack",
 	"author": "Sadawys",
 	"contact": "sadawys@wolke7.net",
@@ -103,7 +103,7 @@
 	
 	"LogisticTrainNetwork >= 1.16.0",
 		"!LTN_Combinator_Fix",
-		"LTN_Combinator_Modernized >= 1.0.0",
+		"LTN_Combinator_Modernized >= 1.0.1",
 		"LTN_Content_Reader >= 0.3.8",
 
 	"?miniloader",
@@ -137,7 +137,7 @@
 	
 	"qol_research >= 3.3.0",
 	"?Rampant",
-	"RateCalculator >= 2.1.3",
+	"RateCalculator >= 2.1.4",
 		
 	"reskins-angels >= 1.1.5",
 		"reskins-bobs >= 1.1.7",
