@@ -1,4 +1,13 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.1.18
+Date: 2020-05.05
+  MOD:
+    - updated "Artisanal Reskins Angel's" to 1.1.6
+    - updated "Artisanal Reskins Bob's" to 1.1.8
+    - updated "Artisanal Reskins Library" to 1.1.6
+    - updated "Rampant" to 1.1.0
+    - updated "RateCalculator" to 2.2.0
+---------------------------------------------------------------------------------------------------
 Version: 1.1.17
 Date: 2020-04-28
   MOD:

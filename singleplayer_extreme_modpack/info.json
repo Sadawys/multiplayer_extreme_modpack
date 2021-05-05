@@ -1,6 +1,6 @@
 {
 	"name": "singleplayer_extreme_modpack",
-	"version": "1.1.17",
+	"version": "1.1.18",
 	"title": "Singleplayer Extreme Modpack",
 	"author": "Sadawys",
 	"contact": "sadawys@wolke7.net",
@@ -140,12 +140,12 @@
 		"?PyCoalTBaA",
 	
 	"qol_research >= 3.3.0",
-	"Rampant >= 1.0.9",	
-	"RateCalculator >= 2.1.4",
+	"Rampant >= 1.1.0",	
+	"RateCalculator >= 2.2.0",
 		
-	"reskins-angels >= 1.1.5",
-		"reskins-bobs >= 1.1.7",
-		"reskins-library >= 1.1.5",
+	"reskins-angels >= 1.1.6",
+		"reskins-bobs >= 1.1.8",
+		"reskins-library >= 1.1.6",
 		
 	"robot_attrition >= 0.5.9",
 	"Robot_Battery_Research >= 0.2.1",

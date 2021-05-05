@@ -1,6 +1,6 @@
 {
 	"name": "exploration_extreme_modpack",
-	"version": "1.1.15",
+	"version": "1.1.16",
 	"title": "Exploration Extreme Modpack",
 	"author": "Sadawys",
 	"contact": "sadawys@wolke7.net",
@@ -83,13 +83,13 @@
 	"nixie-tubes >= 1.1.2",
 	"qol_research >= 3.3.0",
 	"?Rampant",
-	"RateCalculator >= 2.1.4",
+	"RateCalculator >= 2.2.0",
 	"robot_attrition >= 0.5.9",
 	"Robot_Battery_Research >= 0.2.1",
 	"rusty-locale >= 1.0.16",
 	"simhelper >= 1.1.1",
 	
-	"space-exploration >= 0.5.41",
+	"space-exploration >= 0.5.48",
 		"space-exploration-graphics >= 0.5.6",
 		"?space-exploration-hr-graphics",
 		"space-exploration-postprocess >= 0.5.11",

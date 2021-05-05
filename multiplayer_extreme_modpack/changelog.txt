@@ -1,4 +1,12 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.1.31
+Date: 2020-05-05
+  MOD:
+    - updated "Artisanal Reskin Angels's" to 1.1.6
+    - updated "Artisanal Reskin Bob's" to 1.1.8
+    - updated "Artisanal Reskin Bob's" to 1.1.6
+    - updated "RateCalculator" to 2.2.0
+---------------------------------------------------------------------------------------------------
 Version: 1.1.30
 Date: 2020-04-28
   MOD:

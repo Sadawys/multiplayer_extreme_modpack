@@ -1,6 +1,6 @@
 {
 	"name": "multiplayer_extreme_modpack",
-	"version": "1.1.30",
+	"version": "1.1.31",
 	"title": "Multiplayer Extreme Modpack",
 	"author": "Sadawys",
 	"contact": "sadawys@wolke7.net",
@@ -137,11 +137,11 @@
 	
 	"qol_research >= 3.3.0",
 	"?Rampant",
-	"RateCalculator >= 2.1.4",
+	"RateCalculator >= 2.2.0",
 		
-	"reskins-angels >= 1.1.5",
-		"reskins-bobs >= 1.1.7",
-		"reskins-library >= 1.1.5",
+	"reskins-angels >= 1.1.6",
+		"reskins-bobs >= 1.1.8",
+		"reskins-library >= 1.1.6",
 		
 	"robot_attrition >= 0.5.9",
 	"Robot_Battery_Research >= 0.2.1",
