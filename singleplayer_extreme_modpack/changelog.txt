@@ -1,4 +1,15 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.1.19
+Date: 2020-05-12
+  MOD:
+    - updated "aai-industry" to 0.5.8
+    - updated "aai-signal-transmission" to 0.4.2
+    - updated "autoDeconstruct" to 0.1.22
+    - updated "Bob's fuctions Library mod" to 1.1.4
+    - updated "deadlock stacking beltboxes & loaders" to 2.4.2
+    - updated "explosive biters" to 1.1.35
+    - updated "jetpack" to 0.2.7
+---------------------------------------------------------------------------------------------------
 Version: 1.1.18
 Date: 2020-05.05
   MOD:

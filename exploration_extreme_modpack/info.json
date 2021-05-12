@@ -1,6 +1,6 @@
 {
 	"name": "exploration_extreme_modpack",
-	"version": "1.1.16",
+	"version": "1.1.17",
 	"title": "Exploration Extreme Modpack",
 	"author": "Sadawys",
 	"contact": "sadawys@wolke7.net",
@@ -10,10 +10,10 @@
 	"dependencies": [
 	"base >= 1.1.0",
 	
-	"aai-industry >= 0.5.7",
+	"aai-industry >= 0.5.8",
 		"aai-programmable-structures >= 0.7.3",
 		"aai-programmable-vehicles >= 0.7.9",
-		"aai-signal-transmission >= 0.4.1",
+		"aai-signal-transmission >= 0.4.2",
 		"aai-signals >= 0.6.1",
 		"aai-vehicles-chaingunner >= 0.6.1",
 		"aai-vehicles-flame-tank >= 0.5.1",
@@ -29,7 +29,7 @@
 	"alien-biomes >= 0.6.4",
 		"alien-biomes-hr-terrain >= 0.6.1",
 	
-	"AutoDeconstruct >= 0.1.21",
+	"AutoDeconstruct >= 0.1.22",
 	"?belt-balancer",
 	"?BetterBots",
 	"Big_Brother >= 0.5.4",
@@ -42,14 +42,14 @@
 	"!Construction_Drones",
 		"Updated_Construction_Drones >= 1.0.1",
 	
-	"deadlock-beltboxes-loaders >= 2.4.1",
+	"deadlock-beltboxes-loaders >= 2.4.2",
 		"deadlock-integrations >= 2.2.0",
 		"Kux-Deadlock-Stacking-Bio_Industries >= 2.2.0",		
 	
 	"Enhanced_Map_Colors >= 1.5.5",
 	"even-distribution >= 1.0.8",
 	"EvoGUI >= 0.4.601",
-	"Explosive_biters >= 1.1.34",
+	"Explosive_biters >= 1.1.35",
 	"flib >= 0.7.0",
 	"stdlib >= 1.4.6",
 	"Factorissimo2 >= 2.5.2",
@@ -60,9 +60,9 @@
 	"grappling-gun >= 0.3.1",
 	"informatron >= 0.2.1",
 	"Inventory Sensor >= 1.10.4",
-	"jetpack >= 0.2.6",
+	"jetpack >= 0.2.7",
 	
-	"Krastorio2 >= 1.0.23",
+	"Krastorio2 >= 1.1.1",
 	
 	"LogisticTrainNetwork >= 1.16.0",
 		"!LTN_Combinator_Fix",
@@ -89,10 +89,10 @@
 	"rusty-locale >= 1.0.16",
 	"simhelper >= 1.1.1",
 	
-	"space-exploration >= 0.5.48",
+	"space-exploration >= 0.5.51",
 		"space-exploration-graphics >= 0.5.6",
 		"?space-exploration-hr-graphics",
-		"space-exploration-postprocess >= 0.5.11",
+		"space-exploration-postprocess >= 0.5.14",
 	
 	"spidertron-logistics >= 2.0.2",
 	"Squeak Through >= 1.8.2",	
