@@ -1,4 +1,16 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.1.20
+Date: 2020-05-19
+  MOD:
+    - updated "aai-industry" to 0.5.9
+    - updated "aai-signal-transmission" to 0.4.4
+    - updated "alien-biomes" to 0.6.5
+    - updated "informatron" to 0.2.2
+    - updated "jetpack" to 0.2.9
+    - updated "LTN_Combinator_Modernized" to 1.0.3
+    - updated "Rampant" to 1.1.1
+    - updated "robot_attrition" to 0.5.10
+---------------------------------------------------------------------------------------------------
 Version: 1.1.19
 Date: 2020-05-12
   MOD:

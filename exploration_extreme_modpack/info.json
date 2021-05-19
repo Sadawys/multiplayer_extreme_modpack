@@ -1,6 +1,6 @@
 {
 	"name": "exploration_extreme_modpack",
-	"version": "1.1.17",
+	"version": "1.1.18",
 	"title": "Exploration Extreme Modpack",
 	"author": "Sadawys",
 	"contact": "sadawys@wolke7.net",
@@ -10,10 +10,10 @@
 	"dependencies": [
 	"base >= 1.1.0",
 	
-	"aai-industry >= 0.5.8",
+	"aai-industry >= 0.5.9",
 		"aai-programmable-structures >= 0.7.3",
 		"aai-programmable-vehicles >= 0.7.9",
-		"aai-signal-transmission >= 0.4.2",
+		"aai-signal-transmission >= 0.4.4",
 		"aai-signals >= 0.6.1",
 		"aai-vehicles-chaingunner >= 0.6.1",
 		"aai-vehicles-flame-tank >= 0.5.1",
@@ -26,7 +26,7 @@
 	
 	"Aircraft >= 1.7.2",
 	
-	"alien-biomes >= 0.6.4",
+	"alien-biomes >= 0.6.5",
 		"alien-biomes-hr-terrain >= 0.6.1",
 	
 	"AutoDeconstruct >= 0.1.22",
@@ -58,15 +58,15 @@
 	"Flow Control >= 3.0.8",
 	"FNEI >= 0.4.1",
 	"grappling-gun >= 0.3.1",
-	"informatron >= 0.2.1",
+	"informatron >= 0.2.2",
 	"Inventory Sensor >= 1.10.4",
-	"jetpack >= 0.2.7",
+	"jetpack >= 0.2.9",
 	
-	"Krastorio2 >= 1.1.1",
+	"Krastorio2 >= 1.1.3",
 	
 	"LogisticTrainNetwork >= 1.16.0",
 		"!LTN_Combinator_Fix",
-		"LTN_Combinator_Modernized >= 1.0.1",
+		"LTN_Combinator_Modernized >= 1.0.3",
 		"LTN_Content_Reader >= 0.3.8",
 	
 	"?miniloader",
@@ -84,15 +84,15 @@
 	"qol_research >= 3.3.0",
 	"?Rampant",
 	"RateCalculator >= 2.2.0",
-	"robot_attrition >= 0.5.9",
+	"robot_attrition >= 0.5.10",
 	"Robot_Battery_Research >= 0.2.1",
 	"rusty-locale >= 1.0.16",
 	"simhelper >= 1.1.1",
 	
-	"space-exploration >= 0.5.51",
+	"space-exploration >= 0.5.52",
 		"space-exploration-graphics >= 0.5.6",
 		"?space-exploration-hr-graphics",
-		"space-exploration-postprocess >= 0.5.14",
+		"space-exploration-postprocess >= 0.5.16",
 	
 	"spidertron-logistics >= 2.0.2",
 	"Squeak Through >= 1.8.2",	
