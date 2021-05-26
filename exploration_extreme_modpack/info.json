@@ -1,6 +1,6 @@
 {
 	"name": "exploration_extreme_modpack",
-	"version": "1.1.18",
+	"version": "1.1.19",
 	"title": "Exploration Extreme Modpack",
 	"author": "Sadawys",
 	"contact": "sadawys@wolke7.net",
@@ -66,7 +66,7 @@
 	
 	"LogisticTrainNetwork >= 1.16.0",
 		"!LTN_Combinator_Fix",
-		"LTN_Combinator_Modernized >= 1.0.3",
+		"LTN_Combinator_Modernized >= 1.0.4",
 		"LTN_Content_Reader >= 0.3.8",
 	
 	"?miniloader",
@@ -89,8 +89,8 @@
 	"rusty-locale >= 1.0.16",
 	"simhelper >= 1.1.1",
 	
-	"space-exploration >= 0.5.52",
-		"space-exploration-graphics >= 0.5.6",
+	"space-exploration >= 0.5.55",
+		"space-exploration-graphics >= 0.5.7",
 		"?space-exploration-hr-graphics",
 		"space-exploration-postprocess >= 0.5.16",
 	
