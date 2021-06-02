@@ -1,4 +1,22 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.1.35
+Date: 2020-06-02
+  MOD:
+    - updated "Angel's Petrochem Processing" to 0.9.19
+    - updated "Angel's Exploration" to 0.3.10
+    - updated "Angel's Industries" to 0.4.13
+    - updated "Angel's Refining" to 0.11.21
+    - updated "Angel's Smelting" to 0.6.16
+    - updated "Angel's Addons - Storage Options" to 0.0.6
+    - updated "Angel's Bioprocessing" to 0.7.19
+    - updated "Angel's Smelting" to 0.6.16
+    - updated "Angel's Mass Trans" to 0.0.8
+    - updated "Artisanal Reskin: Angel'S Mods" to 1.1.7
+    - updated "MadClown01's AngelBob Nuclear Extension" to 1.1.17
+    - updated "MadClown01's Extended AngelBob Minerals" to 1.1.23
+    - updated "MadClown01's Processing" to 1.3.15
+    - updated "MadClown01's Science" to 1.0.28
+---------------------------------------------------------------------------------------------------
 Version: 1.1.34
 Date: 2020-05-26
   MOD:

@@ -1,6 +1,6 @@
 {
 	"name": "singleplayer_extreme_modpack",
-	"version": "1.1.21",
+	"version": "1.1.22",
 	"title": "Singleplayer Extreme Modpack",
 	"author": "Sadawys",
 	"contact": "sadawys@wolke7.net",
@@ -29,14 +29,14 @@
 	"alien-biomes >= 0.6.5",
 		"alien-biomes-hr-terrain >= 0.6.1",	
 	
-	"angelsaddons-mobility >= 0.0.6",
-		"angelsaddons-storage >= 0.0.4",		
-	"angelsbioprocessing >= 0.7.17",
-		"angelsexploration >= 0.3.9",
-		"angelsindustries >= 0.4.11",
-		"angelspetrochem >= 0.9.17",
-		"angelsrefining >= 0.11.19",
-		"angelssmelting >= 0.6.14",
+	"angelsaddons-mobility >= 0.0.8",
+		"angelsaddons-storage >= 0.0.6",		
+	"angelsbioprocessing >= 0.7.19",
+		"angelsexploration >= 0.3.13",
+		"angelsindustries >= 0.4.13",
+		"angelspetrochem >= 0.9.19",
+		"angelsrefining >= 0.11.21",
+		"angelssmelting >= 0.6.16",
 		
 	"ArmouredBiters >= 1.1.4",
 	"?AsphaltRoads",
@@ -68,10 +68,10 @@
 	"car-finder >= 1.5.2",
 	"cargo-ships >= 0.0.59",	
 	
-	"Clowns-AngelBob-Nuclear >= 1.1.16",
-		"Clowns-Extended-Minerals >= 1.1.21",
-		"Clowns-Processing >= 1.3.14",
-		"Clowns-Science >= 1.0.27",
+	"Clowns-AngelBob-Nuclear >= 1.1.17",
+		"Clowns-Extended-Minerals >= 1.1.23",
+		"Clowns-Processing >= 1.3.15",
+		"Clowns-Science >= 1.0.28",
 		"Clowns-Nuclear >= 1.3.12",
 	
 	"Cold_biters >= 1.1.1",
@@ -110,7 +110,7 @@
 		"LTN_Combinator_Modernized >= 1.0.4",
 		"LTN_Content_Reader >= 0.3.8",
 
-	"miniloader >= 1.13.1",
+	"miniloader >= 1.14.2",
 	"Mining_Drones >= 1.1.10",
 	"more-minimap-autohide-017 >= 1.1.0",
 	"multi-product-recipe-details >= 1.1.1",
@@ -143,7 +143,7 @@
 	"Rampant >= 1.1.1",	
 	"RateCalculator >= 2.2.0",
 		
-	"reskins-angels >= 1.1.6",
+	"reskins-angels >= 1.1.7",
 		"reskins-bobs >= 1.1.8",
 		"reskins-library >= 1.1.6",
 		
