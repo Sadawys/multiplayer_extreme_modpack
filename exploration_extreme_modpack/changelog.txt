@@ -1,4 +1,19 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.1.20
+Date: 2020-06-10
+  ADD:
+    - added "space-exploration-graphics-2" in 0.1.1
+    - added "space-exploration-graphics-3" in 0.1.1
+    - added "space-exploration-graphics-4" in 0.1.1
+    - added "space-exploration-graphics-5" in 0.1.1
+  MOD:
+    - updated "space-exploration-graphics" to 0.5.10
+    - updated "LTN_Combinator_Modernized" to 1.0.5
+    - updated "Nova-Natural_Evolution_Enemies" to 1.1.1
+    - updated "space-exploration" to 0.5.58
+    - updated "space-exploration-postprocess" to 0.5.18
+    - set "Bottleneck" to optional due to performance overhead
+---------------------------------------------------------------------------------------------------
 Version: 1.1.19
 Date: 2020-05-26
   MOD:
