@@ -1,6 +1,6 @@
 {
 	"name": "singleplayer_extreme_modpack",
-	"version": "1.1.22",
+	"version": "1.1.23",
 	"title": "Singleplayer Extreme Modpack",
 	"author": "Sadawys",
 	"contact": "sadawys@wolke7.net",
@@ -32,7 +32,7 @@
 	"angelsaddons-mobility >= 0.0.8",
 		"angelsaddons-storage >= 0.0.6",		
 	"angelsbioprocessing >= 0.7.19",
-		"angelsexploration >= 0.3.13",
+		"angelsexploration >= 0.3.10",
 		"angelsindustries >= 0.4.13",
 		"angelspetrochem >= 0.9.19",
 		"angelsrefining >= 0.11.21",
