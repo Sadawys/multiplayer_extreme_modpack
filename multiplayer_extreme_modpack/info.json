@@ -1,6 +1,6 @@
 {
 	"name": "multiplayer_extreme_modpack",
-	"version": "1.1.35",
+	"version": "1.1.36",
 	"title": "Multiplayer Extreme Modpack",
 	"author": "Sadawys",
 	"contact": "sadawys@wolke7.net",
@@ -40,7 +40,7 @@
 		
 	"ArmouredBiters >= 1.1.4",
 	"?AsphaltRoads",
-	"AutoDeconstruct >= 0.1.22",
+	"AutoDeconstruct >= 0.2",
 	"beltlayer >= 2.0.3",
 	"?belt-balancer",
 	"?BetterBots",
@@ -62,15 +62,16 @@
 		"bobvehicleequipment >= 1.1.2",
 		"bobwarfare >= 1.1.3",
 	
-	"Bottleneck >= 0.11.7",
+	"?Bottleneck >= 0.11.7",
+	"?BottleneckLite >= 1.1.2",
 	"car-finder >= 1.5.2",
 	"cargo-ships >= 0.0.59",	
 	
-	"Clowns-AngelBob-Nuclear >= 1.1.17",
+	"Clowns-AngelBob-Nuclear >= 1.1.18",
 		"Clowns-Extended-Minerals >= 1.1.23",
 		"Clowns-Processing >= 1.3.15",
 		"Clowns-Science >= 1.0.28",
-		"Clowns-Nuclear >= 1.3.12",
+		"Clowns-Nuclear >= 1.3.15",
 	
 	"Cold_biters >= 1.1.1",
 	"Companion_Drones >= 1.0.21",
@@ -103,7 +104,7 @@
 	
 	"LogisticTrainNetwork >= 1.16.0",
 		"!LTN_Combinator_Fix",
-		"LTN_Combinator_Modernized >= 1.0.3",
+		"LTN_Combinator_Modernized >= 1.0.5",
 		"LTN_Content_Reader >= 0.3.8",
 
 	"?miniloader",
