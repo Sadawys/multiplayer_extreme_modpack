@@ -1,6 +1,6 @@
 {
 	"name": "multiplayer_extreme_modpack",
-	"version": "1.1.36",
+	"version": "1.1.37",
 	"title": "Multiplayer Extreme Modpack",
 	"author": "Sadawys",
 	"contact": "sadawys@wolke7.net",
@@ -39,7 +39,6 @@
 		"angelssmelting >= 0.6.16",
 		
 	"ArmouredBiters >= 1.1.4",
-	"?AsphaltRoads",
 	"AutoDeconstruct >= 0.2",
 	"beltlayer >= 2.0.3",
 	"?belt-balancer",
@@ -62,7 +61,6 @@
 		"bobvehicleequipment >= 1.1.2",
 		"bobwarfare >= 1.1.3",
 	
-	"?Bottleneck >= 0.11.7",
 	"?BottleneckLite >= 1.1.2",
 	"car-finder >= 1.5.2",
 	"cargo-ships >= 0.0.59",	
@@ -100,12 +98,12 @@
 	"grappling-gun >= 0.3.1",
 	"informatron >= 0.2.2",
 	"Inventory Sensor >= 1.10.4",
-	"jetpack >= 0.2.9",
+	"jetpack >= 0.2.12",
 	
-	"LogisticTrainNetwork >= 1.16.0",
+	"LogisticTrainNetwork >= 1.16.2",
 		"!LTN_Combinator_Fix",
 		"LTN_Combinator_Modernized >= 1.0.5",
-		"LTN_Content_Reader >= 0.3.8",
+		"LTN_Content_Reader >= 1.0.0",
 
 	"?miniloader",
 	"Mining_Drones >= 1.1.10",
@@ -114,7 +112,7 @@
 	
 	"!Natural_Evolution_Buildings",
 		"!Natural_Evolution_Enemies",
-		"Nova-Natural_Evolution_Enemies >= 1.1.01",
+		"Nova-Natural_Evolution_Enemies >= 1.1.1",
 		"Natural_Evolution_Buildings2 >= 1.1.0",
 	
 	"Nightfall >= 1.1.0",

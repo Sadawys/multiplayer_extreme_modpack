@@ -1,4 +1,15 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.1.37
+Date: 2020-06-29
+  MOD:
+    - changed "jetpack" to 0.2.12
+    - changed "LogisticTrainNetwork" to 1.16.2
+    - changed "LTN_Content_Reader" to 1.0.0
+    - changed "Natural_Evolution_Enemies" to 1.1.1
+  REMOVE:
+    - "AsphaltRoads"
+    - "Bottleneck"
+---------------------------------------------------------------------------------------------------
 Version: 1.1.36
 Date: 2020-06-14
   ADD:
