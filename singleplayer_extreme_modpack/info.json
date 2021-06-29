@@ -1,6 +1,6 @@
 {
 	"name": "singleplayer_extreme_modpack",
-	"version": "1.1.23",
+	"version": "1.1.24",
 	"title": "Singleplayer Extreme Modpack",
 	"author": "Sadawys",
 	"contact": "sadawys@wolke7.net",
@@ -12,7 +12,7 @@
 	
 	"aai-industry >= 0.5.9",
 		"aai-programmable-structures >= 0.7.3",
-		"aai-programmable-vehicles >= 0.7.9",
+		"aai-programmable-vehicles >= 0.7.11",
 		"aai-signal-transmission >= 0.4.4",
 		"aai-signals >= 0.6.1",
 		"aai-vehicles-chaingunner >= 0.6.1",
@@ -103,11 +103,11 @@
 	"helmod >= 0.12.5",
 	"informatron >= 0.2.2",
 	"Inventory Sensor >= 1.10.4",
-	"jetpack >= 0.2.9",
+	"jetpack >= 0.2.12",
 	
-	"LogisticTrainNetwork >= 1.16.0",
+	"LogisticTrainNetwork >= 1.16.2",
 		"!LTN_Combinator_Fix",
-		"LTN_Combinator_Modernized >= 1.0.4",
+		"LTN_Combinator_Modernized >= 1.0.5",
 		"LTN_Content_Reader >= 0.3.8",
 
 	"miniloader >= 1.14.2",
