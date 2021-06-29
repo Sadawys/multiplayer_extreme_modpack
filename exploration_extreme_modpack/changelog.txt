@@ -1,4 +1,20 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.1.21
+Date: 2020-06-29
+  MOD:
+    - updated "aai-programmable-vehicles" to 0.7.11
+    - updated "AutoDeconstruct" to 0.2.12
+    - updated "jetpack" to 0.2.12
+    - updated "Krastorio2" to 1.1.4
+    - updated "LogisticTrainNetwork" to 1.16.2
+    - updated "LTN_Content_Reader" to 1.0.0
+    - updated "space-exploration" to 0.5.67
+    - updated "space-exploration-graphics-5" to 0.1.2
+    - updated "space-exploration-postprocess" to 0.5.21
+    - updated "WideChests" to 3.4.0
+  REMOVE:
+    - removed "space-exploration-hr-graphics"
+---------------------------------------------------------------------------------------------------
 Version: 1.1.20
 Date: 2020-06-10
   ADD:
