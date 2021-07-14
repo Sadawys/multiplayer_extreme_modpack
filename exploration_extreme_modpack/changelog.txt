@@ -1,4 +1,15 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.1.22
+Date: 2020-07-14
+  MOD:
+    - updated "aai-programmable-vehicles" to 0.7.11
+    - updated "LogisticTrainNetwork" to 0.16.3
+    - updated "LTN_Content_Reader" to 1.0.1
+    - updated "AutoDeconstruct" to 0.2.1
+    - updated "space-exploration" to 0.5.72
+    - updated "Kux-Deadlock-Stacking-Bio_Industries" to 2.2.1
+    - updated "robot_attrition" to 0.7.11
+---------------------------------------------------------------------------------------------------
 Version: 1.1.21
 Date: 2020-06-29
   MOD:

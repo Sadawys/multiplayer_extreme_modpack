@@ -1,6 +1,6 @@
 {
 	"name": "exploration_extreme_modpack",
-	"version": "1.1.21",
+	"version": "1.1.22",
 	"title": "Exploration Extreme Modpack",
 	"author": "Sadawys",
 	"contact": "sadawys@wolke7.net",
@@ -12,7 +12,7 @@
 	
 	"aai-industry >= 0.5.9",
 		"aai-programmable-structures >= 0.7.3",
-		"aai-programmable-vehicles >= 0.7.11",
+		"aai-programmable-vehicles >= 0.7.12",
 		"aai-signal-transmission >= 0.4.4",
 		"aai-signals >= 0.6.1",
 		"aai-vehicles-chaingunner >= 0.6.1",
@@ -29,7 +29,7 @@
 	"alien-biomes >= 0.6.5",
 		"alien-biomes-hr-terrain >= 0.6.1",
 	
-	"AutoDeconstruct >= 0.2.0",
+	"AutoDeconstruct >= 0.2.1",
 	"?belt-balancer",
 	"?BetterBots",
 	"Big_Brother >= 0.5.4",
@@ -44,7 +44,7 @@
 	
 	"deadlock-beltboxes-loaders >= 2.4.2",
 		"deadlock-integrations >= 2.2.0",
-		"Kux-Deadlock-Stacking-Bio_Industries >= 2.2.0",		
+		"Kux-Deadlock-Stacking-Bio_Industries >= 2.2.1",		
 	
 	"Enhanced_Map_Colors >= 1.5.5",
 	"even-distribution >= 1.0.8",
@@ -64,10 +64,10 @@
 	
 	"Krastorio2 >= 1.1.4",
 	
-	"LogisticTrainNetwork >= 1.16.2",
+	"LogisticTrainNetwork >= 1.16.3",
 		"!LTN_Combinator_Fix",
 		"LTN_Combinator_Modernized >= 1.0.5",
-		"LTN_Content_Reader >= 1.0.0",
+		"LTN_Content_Reader >= 1.0.1",
 	
 	"?miniloader",
 	"Mining_Drones >= 1.1.10",
@@ -84,12 +84,12 @@
 	"qol_research >= 3.3.0",
 	"?Rampant",
 	"RateCalculator >= 2.2.0",
-	"robot_attrition >= 0.5.10",
+	"robot_attrition >= 0.5.11",
 	"Robot_Battery_Research >= 0.2.1",
 	"rusty-locale >= 1.0.16",
 	"simhelper >= 1.1.1",
 	
-	"space-exploration >= 0.5.67",
+	"space-exploration >= 0.5.72",
 		"space-exploration-graphics >= 0.5.10",
 		"space-exploration-graphics-2 >= 0.1.1",
 		"space-exploration-graphics-3 >= 0.1.1",

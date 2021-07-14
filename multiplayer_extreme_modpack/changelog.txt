@@ -1,14 +1,16 @@
 ---------------------------------------------------------------------------------------------------
-Version: 1.1.37
-Date: 2020-06-29
+Version: 1.1.38
+Date: 2020-07-14
   MOD:
-    - changed "jetpack" to 0.2.12
-    - changed "LogisticTrainNetwork" to 1.16.2
-    - changed "LTN_Content_Reader" to 1.0.0
-    - changed "Natural_Evolution_Enemies" to 1.1.1
-  REMOVE:
-    - "AsphaltRoads"
-    - "Bottleneck"
+    - updated "aai-programmable-vehicles" to 0.7.12
+    - updated "LogisticTrainNetwork" to 1.16.3
+    - updated "Artisanal Reskins: Angel's Mods" to 1.1.8
+    - updated "Artisanal Reskins: Bob's Mods" to 1.1.11
+    - updated "Artisanal Reskins: Library" to 1.1.7
+    - updated "LTN_Content_Reader" to 1.0.1
+    - updated "AutoDeconstruct" to 
+    - updated "Kux-Deadlock-Stacking-Bio_Industries" to 2.2.1
+    - updated "robot_attrition" to 0.5.11
 ---------------------------------------------------------------------------------------------------
 Version: 1.1.36
 Date: 2020-06-14
