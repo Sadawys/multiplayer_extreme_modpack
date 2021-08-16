@@ -1,4 +1,21 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.1.26
+Date: 2020-08-16
+  MOD:
+    - updated "Angel's Addons Mass Transit" to 0.0.9
+    - updated "Angel's AddOns Storage Options" to 0.0.7
+    - updated "Angel's Biopropcessing" to 0.7.20
+    - updated "Angel's Exploriation (BETA)" to 0.3.11
+    - updated "Angel's Indutries" to 0.4.14
+    - updated "Angel's Petrochemical Processing" to 0.9.20
+    - updated "Angel's Refining" to 0.12.0
+    - updated "Angel's Smelting" to 0.6.17
+    - updated "Factorio Library" to 0.8.2
+    - updated "LTN_Combinator_Modernized" to 1.0.6
+    - changed "FNEI" to optional
+  ADD:
+    - added "RecipeBook" as optional
+---------------------------------------------------------------------------------------------------
 Version: 1.1.25
 Date: 2020-07-14
   MOD:
